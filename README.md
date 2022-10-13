@@ -1,17 +1,17 @@
 # Игра: Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/alexlocki/Project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alexlocki/Project_0/README.md#Ккой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/alexlocki/Project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alexlocki/Project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com//github.com/alexlocki/Project_0/README.md#Результат)    
-[6. Выводы](https://github.com//github.com/alexlocki/Project_0_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/alexlocki/Project_0#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alexlocki/Project_0#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/alexlocki/Project_0#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alexlocki/Project_0#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/alexlocki/Project_0#результаты)    
+[6. Выводы](https://github.com/alexlocki/Project_0#выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com//github.com/alexlocki/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexlocki/Project_0#оглавление)
 
 
 ### Какой кейс решаем?    
@@ -29,23 +29,23 @@
 2. Учимся работать с системой GitHub
 
 ### Краткая информация о данных
-....
+Данная функция пригодится в дальнейшем для проверки данных
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexlocki/Project_0#оглавление)
 
 ### Этапы работы над проектом  
-В ходе реализации проекта было опробовано алгоритм решения данной задачи методом дихотомии - выбирается число для угадывания примерно равным середине диапазона и каждый раз диапазон для угадывания уменьшался в два раза ([код](https://github.com//github.com/alexlocki/Project_0/game_v2.py)).
+В ходе реализации проекта было опробовано алгоритм решения данной задачи методом дихотомии - выбирается число для угадывания примерно равным середине диапазона и каждый раз диапазон для угадывания уменьшался в два раза ([game_v2](https://github.com/alexlocki/Project_0/blob/master/game_v2.py)).
 
-:arrow_up:[к оглавлению](https://github.com//github.com/alexlocki/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexlocki/Project_0#оглавление)
 
 
 ### Результаты:  
 Программа угадывает число в среднем за 6 попыток.
 
-:arrow_up:[к оглавлению](https://github.com//github.com/alexlocki/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexlocki/Project_0#оглавление)
 
 
 ### Выводы:  
 Полезный опыт
 
-:arrow_up:[к оглавлению](https://github.com//github.com/alexlocki/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexlocki/Project_0#оглавление)
